@@ -1,5 +1,4 @@
-# minsta
-# Social Media Comment Automation Bot
+# myka - An Social Media Comment Automation Bot
 
 ## Overview
 
@@ -8,6 +7,7 @@ This project aims to address the challenge faced by influencers on social media 
 ## Business Problem
 
 Influencers often struggle to respond to every comment due to time constraints, leading to missed opportunities for interaction and engagement with their followers. This can impact audience satisfaction and hinder the growth of their social media presence.
+Currently, it's in Under Version 1.0. It's A MVP
 
 ## Solution Approach
 
